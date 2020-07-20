@@ -1,0 +1,28 @@
+{
+	"version" : 1,
+	"lang" : 1058,
+	"general" : {
+		"String tokenizer" : "String tokenizer",
+		"Can split a string up based on single character delimiters. Requested by Nifflas." : "Може ділити рядки через символи-роздільники",
+		"String" : "Рядок",
+		"Delimiters" : "Роздільники",
+		"X delimiters" : "X роздільники",
+		"Y delimiters" : "Y роздільники",
+		"Index (0 based)" : "індекс (починається з 0)",
+		"X index (0 based)" : "X індекс (починається з 0)",
+		"Y index (0 based)" : "Y індекс (починається з 0)",
+		"Split string %0 with delimiters %1 (1D)" : "Поділити рядок %0 роздільниками %1 (1D)",
+		"Split string %0 with delimiters %1 and %2 (2D)" : "Поділити рядок %0 роздільниками %1 та %2 (2D)",
+	},
+	"menu_20000" : {
+		"Split string" : "Поділити рядок",
+		"Split string (2D)" : "Поділити рядок (2D)",
+	},
+	"menu_20002" : {
+		"Number of elements" : "Кількість елементів",
+		"Get element" : "Отримати елемент",
+		"Number of X elements (2D)" : "Кількість елементів X (2D)",
+		"Number of Y elements (2D)" : "Кількість елементів Y (2D)",
+		"Get element (2D)" : "Отримати елемент (2D)",
+	}
+}

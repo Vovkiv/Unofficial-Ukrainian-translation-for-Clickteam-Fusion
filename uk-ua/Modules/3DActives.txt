@@ -1,0 +1,41 @@
+﻿{
+	"version" : 1,
+	"lang" : 1049,
+	"general" : {
+		"3D Actives" : "3Д Активные",
+		"Turns normal active object to (flat) 3D sprites" : "Переключает нормальный активный объект на(плоские) 3Д спрайты",
+		"Select Object" : "Выбрать объект",
+		"Value (Floats allowed)" : "Значение (Допускаются плавающие)",
+		"X (Float, 0-360)" : "Х (Плавающие, 0-360)",
+		"X (Float Allowed)" : "Х (Допускаются плавающие)",
+		"Y (Float, 0-360)" : "Y (Плавающие, 0-360)",
+		"Y (Float Allowed)" : "Y (Допускаются плавающие)",
+		"Z (Float, 0-360)" : "Z (Плавающие, 0-360)",
+		"Z (Float Allowed)" : "Z (Допускаются плавающие)",
+		"Move %0 to 3D( %1 , %2 ,%3 )" : "Перемещение %0 в 3Д (X: %1, Y: %2, Z: %3)",
+		"Set Prespective Value to %0" : "Установить значение перспективы %0",
+		"Enable scaling" : "Включить масштабирование",
+		"Disable scaling" : "Отключить масштабирование",
+		"Rotate the camara to %0 , %1 , %2" : "Повернуть камеру на X: %0, Y: %1, Z: %2",
+		"Scale objects at runtime?" : "Масштабирование объектов во время выполнения?",
+		"Limit for resizing." : "Ограничение изменения размера",
+		"Prespective Value" : "Значение перспективы",
+		"Center position" : "Позиция по центру"
+	},
+	"menu_20000" : {
+		"Move an object" : "Перемещение объекта",
+		"Rotate the camara" : "Повернуть камеру",
+		"Settings" : "Настройки",
+		"Set Prespective Value" : "Установить значение перспективы",
+		"Enable scaling" : "Включить масштабирование",
+		"Disable scaling" : "Отключить масштабирование",
+	},
+	"menu_20002" : {
+		"Get X position of last moved object" : "Получить позицию X последнего перемещённого объекта",
+		"Get Y position of last moved object" : "Получить позицию Y последнего перемещённого объекта",
+		"Get Z position of last moved object" : "Получить позицию Z последнего перемещённого объекта",
+		"Get X angle of the camara" : "Получить X угол камеры",
+		"Get Y angle of the camara" : "Получить Y угол камеры",
+		"Get Z angle of the camara" : "Получить Z угол камеры",
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"version" : 1,
+	"lang" : 1058,
+	"general" : {
+		"%o On Detect" : "%o коли виявлено",
+		"Detect overlaps %0 , %1 pixels from the object for detector number %2" : "Обнаруживать перекрытие X=%0 , Y=%1 пикс. от объекта для детектора %2",
+		"Detector ID" : "ID детектора",
+		"Detector id" : "ID детектора",
+		"Detector number %0 is overlaping an obscale" : "Детектор номер %0 перекриває перешкоду",
+		"Easy Detector" : "Easy Detector",
+		"Object is overlapping an obscale" : "Об'єкт перекриває перешкоду",
+		"Select %0 as detect object" : "Обрати %0 як об'єкт детектора",
+		"Select object" : "Обрати об'єкт",
+		"X offset" : "Зміщення X",
+		"Y offset" : "Зміщення Y",
+	},
+	"menu_20000" : {
+		"Select object" : "Обрати об'єкт",
+		"Detect in offset" : "Виявлити зміщення",
+		"On detection" : "При виявлені",
+		"Object is overlapping an obstcale" : "Об'єкт перекриває перешкоду",
+	},
+	"menu_20001" : {
+		"On Detect" : "При виявлені",
+		"Check for collision in a detector" : "Перевірити колізії у детектора",
+	},
+	"menu_20002" : {
+		"On detection" : "При виявлені",
+		"Detector ID" : "ID детектора",
+	}
+}
+

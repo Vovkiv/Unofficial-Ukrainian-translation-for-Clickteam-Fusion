@@ -1,0 +1,40 @@
+﻿{
+	"version" : 1,
+	"lang" : 1058,
+	"general" : {
+		"%o: is visible" : "%o: видимий",
+		"Active Backdrop" : "Active Backdrop",
+		"Changeable backdrop object" : "Редагуємий об'єкт заднього фону",
+		"Check this box to make the object visible at start of frame" : "Увімкніть, якщо об'єкт має бути видимим на початку сцени",
+		"Click on the edit button to add/change the images" : "Натисніть на кнопку редагування, щоб додати/змінити зображення",
+		"Enter the X coordinate" : "Введіть координати (X)",
+		"Enter the Y coordinate" : "Введіть координати (Y)",
+		"Enter the image number (starting at 0)" : "Введіть номер зображення (починається із 0)",
+		"Hide" : "Зробити невидимим",
+		"Image list" : "Список зображень",
+		"List of predefined images" : "Список заздалегідь визначених зображень",
+		"Set X coordinate to %0" : "Замінити координати (X) на %0",
+		"Set Y coordinate to %0" : "Замінити координати (Y) на %0",
+		"Set image to %0" : "Замінити зображення на %0",
+		"Show" : "Зробити видимим",
+		"Visible" : "Видимий"
+	},
+	"menu_20000" : {
+		"Actions" : "Дії",
+		"Hide" : "Сховати",
+		"Set X coordinate" : "Замінити координати (X)",
+		"Set Y coordinate" : "Замінити координати (Y)",
+		"Set image" : "Завантажити зображення",
+		"Show" : "Показати"
+	},
+	"menu_20001" : {
+		"Conditions" : "Умови",
+		"Is object visible" : "Об'єкт видимий?"
+	},
+	"menu_20002" : {
+		"Expressions" : "Вирази",
+		"Get X coordinate" : "Отримати координати (X)",
+		"Get Y coordinate" : "Отримати координати (Y)",
+		"Get image number" : "Отримати номер зображення"
+	}
+}

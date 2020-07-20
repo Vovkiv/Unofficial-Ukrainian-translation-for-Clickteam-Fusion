@@ -1,0 +1,43 @@
+﻿{
+	"version" : 1,
+	"lang" : 1058,
+	"general" : {
+		"00Get row" : "00Отримати рядок",
+		"00New statement" : "00Нова заявка",
+		"00Select a data source" : "00Обрати джерело даних",
+		"00Select a data source via a selector" : "00Обрати джерело даних через селектор",
+		"01Send SQL command %s" : "01Надіслати SQL команду",
+		"01Set row max length to %s" : "01Замінити максимальну довжину рядка на %s",
+		"10%s: can get data" : "10%s: можна отримати дані",
+		"Column number" : "Номер стовпчику",
+		"ODBC" : "ODBC",
+		"ODBC object" : "ODBC об'єкт",
+		"Provides a direct way of accessing information from an external database." : "Надає можливість діставати інформацію із зовнішньої бази даних"
+	},
+	"dialog_20003" : {
+		"&Browse" : "обрати",
+		"&Help" : "Допомога",
+		"Cancel" : "Скасувати",
+		"Data source" : "Джерело даних",
+		"OK" : "Ок",
+		"Setup ODBC object" : "Налаштувати ODBC об'єкт"
+	},
+	"menu_20000" : {
+		"Get row" : "Отримати рядок",
+		"New statement" : "Нова заявка",
+		"Select data source" : "Обрати джерело даних",
+		"Select data source via a selector" : "Обрати джерело даних через селектор",
+		"Send SQL command" : "Надіслати SQL команду",
+		"Set row max length" : "Змінити максимальну довжину рядка"
+	},
+	"menu_20001" : {
+		"Can get data ?" : "Можливо отримати дані?"
+	},
+	"menu_20002" : {
+		"Get columns count" : "Отримати кількість стовпчиків",
+		"Get name of column" : "Отримати ім'я стовпчика",
+		"Get number in column" : "Отримати номер стовпчика",
+		"Get rows count" : "Отримати кількість рядків",
+		"Get text in column" : "Отримати текст стовпчика"
+	}
+}

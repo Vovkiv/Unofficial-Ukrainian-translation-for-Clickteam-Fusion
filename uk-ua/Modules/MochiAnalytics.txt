@@ -1,0 +1,19 @@
+﻿{
+	"version" : 1,
+	"lang" : 1058,
+	"general" : {
+		"End play" : "Закінчити гру",
+		"Event tag" : "тег події",
+		"Mochi Analytics" : "Mochi аналітик",
+		"Obsolete. This object is provided for compatibility reasons only." : "Застарілий об'єкт; Цей об'єкт використовується лише для сумісністності із іншими об'єктами",
+		"Start play (tag %0)" : "Початок проігрування (тег %0)",
+		"Tag (default: gameplay)" : "Тег (За замовчуванням: геймплей)",
+		"Track event %0 with value %1" : "Слідкувати за подіями %0  із значенням %1",
+		"Value (default: 1)" : "Значення (За замовчуванням: 1)"
+	},
+	"menu_20000" : {
+		"End play" : "Закінчити гру",
+		"Start play" : "Почати гру",
+		"Track event" : "Слідкувати за подіями"
+	}
+}

@@ -1,0 +1,17 @@
+﻿{
+	"version" : 1,
+	"lang" : 1058,
+	"general" : {
+		"Check if the object should move at start of frame" : "Увімкніть, якщо об'єкт повинен рухатись на початку сцену",
+		"Choose the strengh of the gravity" : "Сила гравітації",
+		"Deceleration" : "Уповільнення",
+		"Enter the deceleration factor" : "Множник уповільнення",
+		"Enter the initial speed of the object" : "Початкова швидкість об'єкта",
+		"Gravity" : "Гравітація",
+		"Initial direction" : "Початковий напрямок",
+		"Initial speed" : "Початкова швидкість",
+		"Move at start" : "Рухатись на початку сцени",
+		"Pinball movement" : "Пінбольний м'яч",
+		"Please choose the intial direction of the object" : "Початковий напрямок об'єкта"
+	}
+}

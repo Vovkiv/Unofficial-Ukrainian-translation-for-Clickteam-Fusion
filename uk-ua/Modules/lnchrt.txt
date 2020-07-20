@@ -1,0 +1,13 @@
+﻿{
+	"version" : 1,
+	"lang" : 1058,
+	"general" : {
+		"Cannot create file in temporary directory !" : "Неможливо створити файл у тимчасовому каталогу!",
+		"Cannot create subdirectory in temporary directory !" : "Неможливо створити теку у тимчасовому каталогу!",
+		"Cannot open executable file !" : "Неможливо відчинити виконуваний файл!",
+		"Cannot write to temporary file !" : "Неможливо зберегти у тимчасовому файлі!",
+		"Invalid data in executable file !" : "Недійсні дані у виконуваному файлі!",
+		"Not enough memory !" : "Недостатньо пам'яті!",
+		"The disk that contains the Windows temporary directory is full !\n\nPlease free some space and retry." : "Диск у якому зберігається тимчасовий каталог Windows переповнений!\n\nЗвільніть місце на ньому та спробуйте ще раз"
+	}
+}

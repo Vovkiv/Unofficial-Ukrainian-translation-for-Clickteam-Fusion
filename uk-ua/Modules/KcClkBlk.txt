@@ -1,0 +1,33 @@
+﻿{
+	"version" : 1,
+	"lang" : 1058,
+	"general" : {
+		"00Block left click" : "00Заблокувати ЛКМ",
+		"00Block middle click" : "00Заблокувати СКМ",
+		"00Block right click" : "00Заблокувати ПКМ",
+		"00Unblock left click" : "00Розблокувати ЛКМ",
+		"00Unblock middle click" : "00Розблокувати СКМ",
+		"00Unblock right click" : "00Розблокувати ПКМ",
+		"Block left mouse button" : "Заблокувати ліву кнопку миші",
+		"Block middle mouse button" : "Заблокувати середню кнопку миші",
+		"Block right mouse button" : "Заблокувати праву кнопку миші",
+		"Blocks the left, middle and/or right clicks of the mouse." : "Блокує ліву, середню та ліву кнопки миші",
+		"Click Blocker" : "Click Blocker",
+		"Click Blocker object" : "Об'єкт для блокування кнопок миші",
+		"Left mouse button %s" : "Ліва кнопка миші %s",
+		"Left mouse clicks will have no effects" : "ЛКМ не буде працювати",
+		"Middle mouse button %s" : "Середня кнопка миші %s",
+		"Middle mouse clicks will have no effects" : "СКМ не буде працювати",
+		"Right mouse button %s" : "Права кнопка миші %s",
+		"Right mouse clicks will have no effects" : "ПКМ не буде працювати",
+		"blocked" : "заблокована",
+		"unblocked" : "розблокована"
+	},
+	"menu_20000" : {
+		"&Left click" : "Ліву кнопку миші",
+		"&Middle click" : "Середню кнопку миші",
+		"&Right click" : "Праву кнопку миші",
+		"Block" : "Заблокувати",
+		"Unblock" : "Розблокувати"
+	}
+}

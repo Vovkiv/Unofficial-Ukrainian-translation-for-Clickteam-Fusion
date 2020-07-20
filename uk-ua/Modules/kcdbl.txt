@@ -1,0 +1,34 @@
+﻿{
+	"version" : 1,
+	"lang" : 1058,
+	"general" : {
+		"Allows you to perform simple calculations on double-precision floating point numbers (16 significant digits). For Pro version only." : "Дозволяє виконувати прості обчислення з подвійною точністю для чисел з плаваючою комою (до 16 цифр після коми); Тільки для Dev версії",
+		"Double-Precision Calculator" : "Double-Precision Calculator",
+		"Double-Precision Calculator object" : "Double-Precision Calculator об'єкт",
+		"Enter the number of digits" : "Введіть кількість цифр",
+		"Enter the number of digits after the decimal point" : "Введіть кількість цифр після коми",
+		"First number string" : "Перша цифра рядка",
+		"Number of decimals" : "Кількість цифр після коми",
+		"Number of digits" : "Кількість цифр",
+		"Number string" : "Номер рядка",
+		"Second number string" : "Друга цифра рядка",
+		"Set Format to %0 digits" : "Змінити кількість цифр на %0",
+		"Set Format to %0 digits after decimal point" : "Змінити кількість цифр після коми на %0",
+		"Set Standard Format" : "Змінити на стандартну кількість цифр"
+	},
+	"menu_20000" : {
+		"&Standard" : "Стандартна кількість цифр",
+		"N digits" : "Кількість цифр",
+		"N digits after decimal point" : "Кількість цифр після коми",
+		"Set Format" : "Змінити формат"
+	},
+	"menu_20002" : {
+		"&Add" : "Додати",
+		"&Divide" : "Поділити",
+		"&Multiply" : "Помножити",
+		"&Subtract" : "Відняти",
+		"Format ..." : "Форматувати",
+		"N digits" : "Кількість цифр",
+		"N digits after decimal point" : "Кількість цифр після коми"
+	}
+}

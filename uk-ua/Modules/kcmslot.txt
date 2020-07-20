@@ -1,0 +1,39 @@
+﻿{
+	"version" : 1,
+	"lang" : 1058,
+	"general" : {
+		"00Reset error" : "00Скинути помилки",
+		"01Close channel %s" : "01Зачинити канал %s",
+		"01Open channel %s as %s" : "01Відчинити канал %s як %s",
+		"02Send number %s to slot %s" : "02Надіслати число %s до слоту %s",
+		"02Send string %s to slot %s" : "02Надіслати рядок %s до слоту %s",
+		"10%s : Error" : "10%s : Помилка!",
+		"11%s : Message available on channel %s" : "11%s : повідомлення доступне на каналі %s",
+		"Allows applications to communicate through a local network by opening a channel for communication between two computers." : "Дозволяє програмам спілкуватися через локальну мережу",
+		"Channel number" : "Номер каналу",
+		"Last error: %s" : "Остання помилка: %s",
+		"Network" : "Network",
+		"Network object" : "Network об'єкт",
+		"Number to Send" : "Число для надіслання",
+		"Slot name" : "Ім'я слоту",
+		"String to send" : "Рядок для надсилання"
+	},
+	"menu_20000" : {
+		"Close channel" : "Зачинити канал",
+		"Open channel" : "Відчинити канал",
+		"Reset error" : "Скинути помилки",
+		"Send number" : "Надіслати число",
+		"Send string" : "Надіслати рядок"
+	},
+	"menu_20001" : {
+		"Error" : "Помилка",
+		"Message available" : "Повідомлення доступне"
+	},
+	"menu_20002" : {
+		"Get current status" : "Отримати поточний статус",
+		"Get last error" : "Отримати останню помилку",
+		"Get last error string" : "Отримати останню помилку текстом",
+		"Get number" : "Отримати число",
+		"Get string" : "Отримати рядок"
+	}
+}

@@ -1,0 +1,104 @@
+{   "About":
+    {
+        "Name": "Android - Камера (объект)",
+        "Author": "Clickteam",
+        "Copyright": "Copyright (C) 2014 Clickteam",
+        "Website": "http://www.clickteam.com",
+        "Comment": "Часть Android экспортера. Обеспечивает функциональность камеры.",
+        "URL": "http://www.clickteam.com",
+        "Help": "Help\\ACamera.chm",
+        "Identifier": "ACam",
+    },
+
+    "ActionMenu":
+    [
+        [0, "Установить название альбома"],
+        [1, "Сделать фото"],
+        [2, "Записать видео"],
+        "Separator",
+        [3, "Выбрать из галереи"],
+        "Separator"
+		
+	],
+
+    "ConditionMenu":
+    [
+        [0, "При снятии фото"],
+        [1, "При снятии видео"],
+        [2, "При возвращении из галереи"],
+        [3, "При возникновении ошибки"]
+		
+    ],
+
+    "ExpressionMenu":
+    [
+        [0, "Получить ошибку"],
+        [1, "Получить строку ошибки"],
+        [2, "Получить путь изображения"],
+        [3, "Получить путь видео"],
+        [4, "Получить путь галереи"],
+        [5, "Получить количество камер"],
+        "Separator",
+        [6, "Получить угол изображения"],
+        "Separator"
+
+    ],
+
+    "Actions":
+    [
+        { "Title": "Установить название альбома %0",
+			"Parameters": [["Text", "Введите название альбома"]] },
+		  
+        { "Title": "Сфотографировать с помощью камеры %0, с названием %1 и описанием %2",
+			"Parameters": [["Integer", "Камера (0: Основная, 1: Фронтальная)"],
+			           ["Text", "Введите заголовок"],
+		               ["Text", "Введите описание"]] },
+        
+	{ "Title": "Снять видео с помощью камеры %0",
+			"Parameters": [["Integer", "Камера (0: Основная, 1: Фронтальная)"]]  },
+		
+        { "Title": "Выбрать из галереи с типом %0",
+			"Parameters": [["Integer", "Выбрать тип (0:Всё, 1:Фото, 2:Видео)"]] }		  		  	  		  
+   ],
+
+    "Conditions":
+    [
+        {   "Title": "%o : Фото снято?",
+            "Triggered": true
+        },
+        {   "Title": "%o : Видео снято?",
+            "Triggered": true
+        },
+        {   "Title": "%o : Возвращение из галереи?",
+            "Triggered": true
+        },
+        {   "Title": "%o : Произошла ошибка?",
+            "Triggered": true
+        }	
+	],
+
+    "Expressions":
+    [
+        {   "Title": "Error(",
+            "Returns": "Integer"
+        },
+		{   "Title": "Error$(",
+            "Returns": "Text"
+        },
+		{   "Title": "ImagePath$(",
+            "Returns": "Text"
+        },
+		{   "Title": "VideoPath$(",
+            "Returns": "Text"
+        },
+		{   "Title": "GalleryPath$(",
+            "Returns": "Text"
+        },
+		{   "Title": "NumberOfCameras(",
+            "Returns": "Integer"
+        },
+		{   "Title": "ImageAngle(",
+            "Returns": "Integer"
+        }
+	]
+}

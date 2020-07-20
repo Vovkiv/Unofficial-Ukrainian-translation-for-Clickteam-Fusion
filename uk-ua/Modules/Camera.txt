@@ -1,0 +1,26 @@
+﻿{
+	"version" : 1,
+	"lang" : 1058,
+	"general" : {
+		"Allow the user to edit the picture or movie" : "Дозволяє користувачу редагувати зображення та відео",
+		"Camera" : "Camera",
+		"Editable" : "Можна редагувати",
+		"Extra function for iOS applications." : "Додаткові функції для IOS додактів",
+		"Is camera available?" : "Камера доступна?",
+		"Record and save movie" : "Записати та сберегти відео",
+		"Save picture" : "Зберегти зображення",
+		"Take picture" : "Зробити фото"
+	},
+	"menu_20000" : {
+		"Actions" : "Дії",
+		"Movie" : "Відео",
+		"Pictures" : "Зображення",
+		"Record and save movie" : "Записати для зберегти відео",
+		"Save picture" : "Зберегти зображення",
+		"Take picture" : "Зробити фото"
+	},
+	"menu_20001" : {
+		"Conditions" : "Умови",
+		"Is camera available?" : "Камера доступна?"
+	}
+}
