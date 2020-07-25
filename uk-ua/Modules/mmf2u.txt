@@ -1,4 +1,4 @@
-﻿{
+{
 	"version" : 1,
 	"lang" : 1058,
 	"general" : {
@@ -255,7 +255,7 @@
 		"01No more objects in %s" : "01Немає більши об'єктів у %s",
 		"01Number of active objects in %s %s" : "01Кількість активних об'єктів у %s %s",
 		"01Number of objects in %s %s" : "01Кількість обєктів у %s %s",
-		"01On loop %s" : "01Луп %s :",
+		"01On loop %s" : "01Луп %s:",
 		"01Paste into background %s" : "01Вставити у задній фон %s",
 		"01Pause sample %s" : "01Поставити аудіо-семпл %s на паузу",
 		"01Pick a random active object from %s" : "01%s内随机选取一个活动对象",
@@ -2146,8 +2146,8 @@
 		"No ID? Sign-up here" : "Немає ID? Зареєструйтесь ось тут",
 		"No Item Selected" : "没有项目被选择",
 		"No Jump" : "Стрибок",
-		"No Maximize box" : "Без опції 'Розгорнути вікно'",
-		"No Minimize box" : "Без опції 'Згорнути вікно'",
+		"No Maximize box" : "Без опції вікна 'Розгорнути вікно'",
+		"No Minimize box" : "Без опції вікна 'Згорнути вікно'",
 		"No Thick frame" : "Заборонити міняти розмір вікна",
 		"No change" : "无变更",
 		"No display surface" : "Не відображати поверхню",
@@ -2158,7 +2158,7 @@
 		"No more of one object" : "没有更多单一对象",
 		"No rotation" : "没有旋转",
 		"No t&o all" : "没有所有(&O)",
-		"No." : "Ні",
+		"No." : "№",
 		"Non-physical movements" : "Не фізичні рухи",
 		"None" : "无",
 		"None (virtualization)" : "无 (虚拟化)",
@@ -2599,8 +2599,8 @@
 		"Right Arrow" : "右箭头",
 		"Right pressed" : "右按下时",
 		"Right$( >Enter string here<, 0 )" : "Right$(Рядок, 0)",
-		"Right-to-left layout" : "Розташування справа наліво",
-		"Right-to-left reading" : "Текст справа наліво",
+		"Right-to-left layout" : "Розташування елементів вікна справа наліво",
+		"Right-to-left reading" : "Відображати текст справа наліво",
 		"Rockets" : "Ракети",
 		"Rotate" : "Перегорнути",
 		"Rotate\nRotate" : "Перегорнути\nПерегорнути",
@@ -4627,7 +4627,7 @@
 		"Language" : "Мова",
 		"Number of &undo levels :" : "Кількість рівнів скасування останньої дії :",
 		"Prompt for language when loading non Unicode applications" : "Показувати вікно обирання мови для не Unicode програм",
-		"Set Display Mode property of new applications to Direct3D" : "Міняти рендер Direct3D у властивостях новостворенної програми",
+		"Set Display Mode property of new applications to Direct3D" : "Міняти рендер у властивостях новостворенної програми на Direct3D",
 		"Spin3" : "Spin3",
 		"Spin4" : "Spin4"
 	},
@@ -4665,10 +4665,10 @@
 	"dialog_13554" : {
 		"&Create automatic icons" : "Автоматично створювати іконки",
 		"&Display index of selected objects" : "Відображати індекс обраних об'єктів",
-		"&Horizontal :" : "Горизонтально :",
+		"&Horizontal :" : "Гориз.:",
 		"&Proportional resize when dragging diagonal handles" : "Пропорціонально змінювати розміри об'єкта по діагоналі",
 		"&Use Direct3D in editor for Direct3D applications" : "Використовувати рендер Direct3D для Direct3D програм",
-		"&Vertical :" : "Вертикально :",
+		"&Vertical :" : "Верт.:",
 		"Action" : "Дія",
 		"Alt" : "Alt",
 		"Ask for confirmation when deleting object associated with events" : "Перепитувати якщо видаляється об'єкт пов'язаний із подіями",
@@ -4703,7 +4703,7 @@
 		"Property Window" : "Вікно властивостей",
 		"Save dialog boxes size && &position" : "Зберігати позицію та розмір вікон",
 		"Skin" : "Оболочка",
-		"Tooltip delay (ms)" : "Затримка підказки",
+		"Tooltip delay (ms)" : "Затримка підказки (мс)",
 		"Workspace" : "Робочій простір"
 	},
 	"dialog_13557" : {
@@ -4712,8 +4712,8 @@
 		"Colors" : "Кольори",
 		"Default font" : "Шрифт за замовчуванням",
 		"Disable syntax colorizing and parentheses highlighting" : "Відключити кольоровий синтаксис",
-		"Expression Editor " : "Редактор виразів ",
-		"Item" : "Предмет",
+		"Expression Editor " : "Редактор виразів",
+		"Item" : "Опція",
 		"Picker" : "Збирач",
 		"Static" : "Статичний"
 	},
@@ -4721,7 +4721,7 @@
 		"&Add" : "Додати",
 		"&Remove" : "Видалити",
 		"Extensions to ignore" : "Ігноровані розширення",
-		"Filename of the extensions to ignore at start :" : "Ім'я файлу розширення яке треба ігнорувати:"
+		"Filename of the extensions to ignore at start :" : "Назва файла розширення яке треба ігнорувати:"
 	},
 	"dialog_13565" : {
 		"&Help" : "Допомога",
@@ -4770,7 +4770,7 @@
 		"&Val" : "&Val",
 		"Cancel" : "Скасувати",
 		"Del" : "Del",
-		"Enter expression to calculate :" : "Введіть вираз для розрахунку :",
+		"Enter expression to calculate :" : "Введіть вираз для розрахунку:",
 		"Expression editor" : "Редактор виразів",
 		"F" : "F",
 		"Le&ft$" : "Le&ft$",
@@ -5038,7 +5038,7 @@
 		"Cancel" : "Скасувати",
 		"Character encoding" : "Кодування символів",
 		"OK" : "Ок",
-		"Please select a character encoding :" : "Оберіть кодування сиволів :"
+		"Please select a character encoding :" : "Оберіть кодування сиволів:"
 	},
 	"dialog_14206" : {
 		"Cancel" : "Скасувати",
@@ -5055,9 +5055,9 @@
 	},
 	"dialog_16105" : {
 		"&Delete" : "Видалити",
-		"&New..." : "Новий",
+		"&New..." : "Нова панель",
 		"&Reset" : "Скинути",
-		"&Show text labels" : "Показувати текст позначки",
+		"&Show text labels" : "Показ. текст іконок",
 		"&Toolbars:" : "Панелі інструментів:",
 		"Rena&me..." : "Перейменувати",
 		"Reset &All" : "Скинути усе",
@@ -5072,18 +5072,18 @@
 	"dialog_16132" : {
 		"&Button text:" : "Текст кнопки:",
 		"&Edit..." : "Редагувати",
-		"&Image only" : "Тільки зображення",
+		"&Image only" : "Тільки зображ.",
 		"&New..." : "Нове",
 		"&Text only" : "Тільки текст",
 		"<descr>" : "<descr>",
 		"Button Appearance" : "Зовнішній вигляд кнопки",
 		"Cancel" : "Скасувати",
 		"Description:" : "Опис:",
-		"Image &and text" : "Зображення та текст",
+		"Image &and text" : "Зображ. та текст",
 		"Images" : "Зображення",
 		"OK" : "Ок",
-		"Select &User-defined Image: " : "Обрати користувацьке зображення:",
-		"Use &Default Image: " : "Використовувати стандартне зображення:"
+		"Select &User-defined Image: " : "Обрати власне зображ.:",
+		"Use &Default Image: " : "Зображення за замовч.:"
 	},
 	"dialog_16133" : {
 		"Cancel" : "Скасувати",
@@ -5134,7 +5134,7 @@
 		"&Reset my usage data" : "Скинути дані про використання",
 		"Me&nus show recently used commands first" : "Показувати меню у порядку останнього використання",
 		"Options" : "Налаштування",
-		"Personalized Menus and Toolbars" : "Персоналізувати меню та панелі інструментів",
+		"Personalized Menus and Toolbars" : "Персонал. меню та панелі інструм.",
 		"Show Screen&Tips on toolbars" : "Показувати підказки на панелі інструментів",
 		"Show f&ull menus after a short delay" : "Показувати меню після короткох затримки",
 		"Show shortcut &keys in ScreenTips" : "Показувати гарячі клавіші у екранних підказках",
@@ -5144,22 +5144,22 @@
 		"dummy" : "dummy"
 	},
 	"dialog_16927" : {
-		"&Activate" : "Активувати",
-		"&Close Window(s)" : "Зачинити вікно(вікна)",
+		"&Activate" : "Зробити активним",
+		"&Close Window(s)" : "Зачинити вікно(а)",
 		"&Help" : "Допомога",
-		"&Minimize" : "Мінімізувати",
+		"&Minimize" : "Сгорнути",
 		"&OK" : "Ок",
 		"&Save" : "Зберегти",
 		"Casca&de" : "Каскадом",
 		"Select &window:" : "Обрати вікно:",
-		"Tile &Vertically" : "Вертикальна плитка",
-		"Tile Hori&zontally" : "Горизонтальна плитка",
+		"Tile &Vertically" : "Верт. плитка",
+		"Tile Hori&zontally" : "Гориз. плитка",
 		"Windows" : "Вікна"
 	},
 	"dialog_16928" : {
 		"&Arguments:" : "Аргументи:",
 		"&Command:" : "Команда:",
-		"&Initial directory:" : "Початковий напрямок:",
+		"&Initial directory:" : "Початковий каталог:",
 		"&Menu contents:" : "Вміст меню:",
 		"Tools" : "Інструменти"
 	},
@@ -5443,10 +5443,10 @@
 	},
 	"dialog_30722" : {
 		"Cancel" : "Скасувати",
-		"Document :" : "Документ :",
-		"Page :" : "Сторінка :",
-		"Port :" : "Порт :",
-		"Printer :" : "Принтер :",
+		"Document :" : "Документ:",
+		"Page :" : "Сторінка:",
+		"Port :" : "Порт:",
+		"Printer :" : "Принтер:",
 		"Printing" : "Друкується"
 	},
 	"dialog_30723" : {
@@ -5486,7 +5486,7 @@
 		"&Insert" : "Вставити",
 		"&Install Program" : "Інсталятор",
 		"&Invert Selection" : "Інвертувати обране",
-		"&Keyboard shortcuts" : "Горячі клавіші",
+		"&Keyboard shortcuts" : "Гарячі клавіші",
 		"&New" : "Новий",
 		"&New Window" : "Нове вікно",
 		"&Open..." : "Відчинити",
@@ -5521,7 +5521,7 @@
 		"F&ull Screen" : "Повний екран",
 		"New &Frame" : "Нову сцену",
 		"New &Object" : "Новий об'єкт",
-		"New Fol&der" : "Нова тека",
+		"New Fol&der" : "Нову теку",
 		"New Pro&ject" : "Новий проект	",
 		"Open P&roject" : "Відчинити проект",
 		"Recent File" : "Нещодавні файли",
@@ -5816,7 +5816,7 @@
 		"&Insert" : "Вставити",
 		"&Install Program" : "Інсталятор",
 		"&Invert Selection" : "Інвертувати обране",
-		"&Keyboard shortcuts" : "Горячі клавіші",
+		"&Keyboard shortcuts" : "Гарячі клавіші",
 		"&Line of Event" : "Нову подію",
 		"&Multimedia" : "Мультімедія",
 		"&New" : "Новий",
@@ -6157,13 +6157,13 @@
 		"&Help" : "Допомога",
 		"&Hide the menu\tF8" : "Сховати меню\tF8",
 		"&New\tF2" : "Перезапустити\tF2",
-		"&Options" : "Налаштування)",
+		"&Options" : "Налаштування",
 		"&Pause\tCtrl+P" : "Пауза\tCtrl+P",
 		"&Quit\tAlt+F4" : "Вихід\tAlt+F4",
 		"Pass&word" : "Пароль",
 		"Pla&yers\tCtrl+Y" : "Гравці\tCtrl+Y",
-		"Play &musics\tCtrl+M" : "Грати музику\tCtrl+M",
-		"Play &samples\tCtrl+S" : "Грати аудіо-семпли\tCtrl+S"
+		"Play &musics\tCtrl+M" : "Відтворювати музику\tCtrl+M",
+		"Play &samples\tCtrl+S" : "Відтворювати аудіо-семпли\tCtrl+S"
 	},
 	"menu_7950" : {
 		"Delete" : "Видалити",
