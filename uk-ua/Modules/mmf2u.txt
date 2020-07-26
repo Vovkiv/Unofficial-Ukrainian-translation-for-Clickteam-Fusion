@@ -473,7 +473,7 @@
 		"Add 0's to the left" : "Додавати нулі зліва",
 		"Add 0's to the left if necessary." : "Додавати нулі зліва якщо потрібно",
 		"Add backdrop" : "Додати бєкдроп",
-		"Add new answer" : "Додати нове питання",
+		"Add new answer" : "Додати нову відповідь",
 		"Add object to debugger" : "Додати об'єкт до дебагера",
 		"Add to" : "Додати до",
 		"Add to Counter" : "Додати до лічильника",
@@ -543,7 +543,7 @@
 		"Always enabled" : "Завжди активований",
 		"An error has happened when calling rapc.exe.\nPlease check the installation of the\nBlackBerry JDE.\nDo you want to read the output of rapc.exe?" : "Сталося помилка при виклику 'rapc.exe'\nПеревірте правильність інсталяції\nBlackBerry JDE\nБажаєте прочитатти лог-файл 'rapc.exe'?",
 		"An error has occured while building the Javascript code. The HTML5 project could not be built.\nDo you want to read the compiler output log?" : "Сталося помилка при компіляції Javascript кода\nБажаєте прочитати лог-файл компіляції?",
-		"An error occured while loading frame #%d.\nDo you want to continue loading this application anyway?\n\nIf you answer Yes, this frame will be removed from the application." : "Сталося помилка під час завантаження сцени #%d \nБажаєте продовжити завантаження програми?\n\nЯкщо Так, то ця сцена буде видалена із сцени",
+		"An error occured while loading frame #%d.\nDo you want to continue loading this application anyway?\n\nIf you answer Yes, this frame will be removed from the application." : "Сталося помилка під час завантаження сцени #%d \nБажаєте продовжити завантаження програми?\n\nЯкщо так, то ця сцена буде видалена із сцени",
 		"An error occured, do you want to read the output file?" : "Сталося помилка; Бажаєте прочитати лог-файл?",
 		"An error occured, please check the output window." : "Сталося помилка; Перевірте вікно з логом",
 		"An incorrect file handle was associated with %1." : "Файл був неправильно оброблен через %1",
@@ -566,7 +566,7 @@
 		"Animation sequence..." : "Послідовність анімації...",
 		"Animations" : "Анімації",
 		"Another object" : "Інший об'єкт",
-		"Answer" : "Питання",
+		"Answer" : "Відповідь",
 		"Anti-aliasing" : "Згладжування",
 		"Anti-aliasing when resizing" : "Згладжування при зміні розміру вікна",
 		"Any (automatic)" : "Будь-яке (Автоматично)",
@@ -1080,7 +1080,7 @@
 		"Delete an item" : "Видалити опцію",
 		"Delete frame number %d.\nAre you sure?" : "Видалити сцену № %d \nВи впевнені?",
 		"Delete movement" : "Видалити тип руху",
-		"Delete the selected answer?" : "Видалити обрані питання?",
+		"Delete the selected answer?" : "Видалити обрану відповідь?",
 		"Delete the selection\nDelete" : "Видалити обране\nВидалити",
 		"Demo" : "Демо",
 		"Demo Version" : "Демо версія",
@@ -3845,134 +3845,134 @@
 		"OK" : "Ок",
 		"Please contact Clickteam if you can reproduce this issue, thanks !" : "如果你重复出现这个问题请联系clickteam，谢谢。",
 		"Saving the application and reloading it could fix the problem and only generate bad objects in the events, but if possible, you should save it with another filename and restart from a previous version." : "Saving the application and reloading it could fix the problem and only generate bad objects in the events, but if possible, you should save it with another filename and restart from a previous version.",
-		"Warning" : "警告"
+		"Warning" : "Увага"
 	},
 	"dialog_2009" : {
-		"&Browse" : "浏览(&B)",
+		"&Browse" : "Обрати",
 		"&Help" : "Допомога",
-		"&Ignore" : "忽略(&I)",
-		"&The file specified below does not exist. Please enter another filename." : "下面指定的文件不存在，请输入其他文件名。",
-		"Ignore &all similar messages" : "忽略所有类似信息(&A)",
+		"&Ignore" : "Ігнорувати",
+		"&The file specified below does not exist. Please enter another filename." : "Обраний знизу файл не існує; Оберіть нову назву файла",
+		"Ignore &all similar messages" : "Ігнорувати усі подібні повідомлення",
 		"OK" : "Ок",
-		"Warning" : "警告"
+		"Warning" : "Увага"
 	},
 	"dialog_2010" : {
 		"&Help" : "Допомога",
 		"Cancel" : "Скасувати",
 		"OK" : "Ок",
-		"This may cause problems if you want to install this application on another machine." : "如果你希望安装此应用程序到其他机器，可能会导致问题。",
-		"Warning" : "警告",
-		"Warning, the following files are stored in directories that are not relative to the directory of the application you are saving." : "警告: 下列文件不存储在你保存应用程序的目录。"
+		"This may cause problems if you want to install this application on another machine." : "Це може викликати проблеми якщо ви інсталюєте цю програму на іншому пристрої",
+		"Warning" : "Увага",
+		"Warning, the following files are stored in directories that are not relative to the directory of the application you are saving." : "Увага: наступні файли знаходяться у каталогу який не відноситься до каталогу програми яку ви зберігаєте"
 	},
 	"dialog_2011" : {
 		"&Help" : "Допомога",
 		"Cancel" : "Скасувати",
-		"Error" : "错误",
-		"Error: the following files are stored in directories that are not relative to the directory of the application you are saving." : "错误: 下列文件不存储在你保存应用程序的目录。",
+		"Error" : "Помилка",
+		"Error: the following files are stored in directories that are not relative to the directory of the application you are saving." : "Помилка: наступні файли знаходяться у каталогу який не відноситься до каталогу програми яку ви зберігаєте",
 		"OK" : "Ок",
-		"You cannot save this application as Internet application. Please move these files, then retry." : "你无法保存此应用为互联网应用程序。请移动这些文件，然后重试。"
+		"You cannot save this application as Internet application. Please move these files, then retry." : "Неможливо зберегти цю програму як Інтернет програму; Пересуньте ці файли, а після повторіть сбробу"
 	},
 	"dialog_2012" : {
 		"&No" : "Ні",
 		"&Yes" : "Так",
-		"Build" : "生成",
-		"The following files are out of date or do not exist. Do you want to build them?" : "下列文件已经过时或不存在。你想生成他们吗？"
+		"Build" : "Скомпілювати",
+		"The following files are out of date or do not exist. Do you want to build them?" : "Наступні файли застаріли або не існують; Усе одно компілювати?"
 	},
 	"dialog_2048" : {
 		"&Help" : "Допомога",
 		"Cancel" : "Скасувати",
-		"Change name" : "修改名称",
+		"Change name" : "Змінити назву",
 		"Delete" : "Видалити",
-		"Down" : "下",
-		"Movements" : "运动",
-		"New" : "新建",
+		"Down" : "Вниз",
+		"Movements" : "Рухи",
+		"New" : "Новий",
 		"OK" : "Ок",
-		"Up" : "上"
+		"Up" : "Вгору"
 	},
 	"dialog_2051" : {
 		"Cancel" : "Скасувати",
-		"Change Movement Name" : "修改运动名称",
-		"Enter a new name for the movement" : "为此运动输入一个新名称",
+		"Change Movement Name" : "Змінити назву типу руху",
+		"Enter a new name for the movement" : "Уведіть нову назву для руху",
 		"OK" : "Ок"
 	},
 	"dialog_2059" : {
-		"&Apply" : "应用(&A)",
-		"&Close" : "改变(&C)",
-		"&Output" : "输出(&O)",
-		"&Save As" : "保存为(&S)",
-		"Effect editor" : "特效编辑器",
-		"FX file" : "FX 文件",
-		"Line : " : "行 : ",
-		"XML file" : "XML 文件"
+		"&Apply" : "Застосувати",
+		"&Close" : "Зачинити",
+		"&Output" : "Вивід",
+		"&Save As" : "Зберегти як",
+		"Effect editor" : "Редактор ефектів",
+		"FX file" : "FX файл",
+		"Line : " : "Рядок : ",
+		"XML file" : "XML файл"
 	},
 	"dialog_2062" : {
-		"Add new resolution" : "添加新分辨率",
+		"Add new resolution" : "Додати новий розмір",
 		"Cancel" : "Скасувати",
-		"Height" : "高度",
+		"Height" : "Висота",
 		"OK" : "Ок",
-		"Width" : "宽度"
+		"Width" : "Ширина"
 	},
 	"dialog_2063" : {
 		"&Close" : "Зачинити",
-		"&Run" : "运行(&R)",
-		"Emulator" : "安卓模拟器 ",
-		"Re&fresh" : "刷新(&F)",
-		"SDK &Manager" : "SDK 管理",
-		"To open the Android emulator, select a virtual device and click the Run button. You can create new virtual devices in the Android SDK manager." : "打开安卓模拟器，选择一个虚拟设备然后点击运行按钮，你可以创建一个新的虚拟设备在安卓SDK管理器里。"
+		"&Run" : "Запустити",
+		"Emulator" : "Емулятор",
+		"Re&fresh" : "Оновити",
+		"SDK &Manager" : "SDK менеджер",
+		"To open the Android emulator, select a virtual device and click the Run button. You can create new virtual devices in the Android SDK manager." : "Щоб запустити Андроід емулятор, оберіть віртуальний пристрій та натисніть 'Запустити'; Новий віртуальний пристрій можна створити у Андроід SDK менеджері"
 	},
 	"dialog_2064" : {
-		"Browse" : "浏览",
+		"Browse" : "Обрати",
 		"Cancel" : "Скасувати",
 		"OK" : "Ок",
-		"Project name :" : "工程名 :",
-		"Project path :" : "工程路径 :",
-		"Save %s Project" : "保存 %s 工程"
+		"Project name :" : "Назва проекту:",
+		"Project path :" : "Шлях проекту:",
+		"Save %s Project" : "Зберегти %s проект"
 	},
 	"dialog_2102" : {
 		"Add" : "Додати",
-		"Android menu" : "安卓菜单",
+		"Android menu" : "Меню Андроід",
 		"Cancel" : "Скасувати",
-		"Edit image" : "编辑图像",
-		"List1" : "列表1",
+		"Edit image" : "Редагувати зображення",
+		"List1" : "Список 1",
 		"OK" : "Ок",
-		"Option ID" : "选项 ID",
-		"Option text" : "选项 文本",
-		"Remove" : "移除"
+		"Option ID" : "ID опції",
+		"Option text" : "Опція тексту",
+		"Remove" : "Видалити"
 	},
 	"dialog_2103" : {
-		"1. Open a web browser on your tablet or phone" : "1. 在你的平板电脑或手机里打开浏览器",
-		"2. Type \"www.clickteam.com/html5launcher\" in the address bar" : "2. 将 \"www.clickteam.com/html5launcher\" 输入地址栏",
-		"3. Enter the following number :" : "3. 输入以下号码 :",
+		"1. Open a web browser on your tablet or phone" : "1 Відченіть браузер на пристрої",
+		"2. Type \"www.clickteam.com/html5launcher\" in the address bar" : "2 Введіть \"www.clickteam.com/html5launcher\" у рядку адреси",
+		"3. Enter the following number :" : "3 Уведіть наступні цифри:",
 		"Cancel" : "Скасувати",
-		"Please follow this procedure :" : "请遵循以下的步骤 :",
-		"Remote HTML5 Launcher" : "远程HTML5启动器",
-		"Static" : "静态"
+		"Please follow this procedure :" : "Дотримуйтесь цієї процедури:",
+		"Remote HTML5 Launcher" : "Віддаленний лаунчер HTML5",
+		"Static" : "Статично"
 	},
 	"dialog_2126" : {
-		"&Correct answer" : "正确的答案(&C)",
+		"&Correct answer" : "Правильна відповідь",
 		"&Help" : "Допомога",
 		"Cancel" : "Скасувати",
-		"Edit answer" : "编辑答案",
+		"Edit answer" : "Редагувати відповідь",
 		"OK" : "Ок"
 	},
 	"dialog_2500" : {
-		"&Assign this type to further imported items (skip this dialog)" : "分配此类型到更多已导入项目 (跳过此对话框)(&A)",
-		"&From File(s)" : "来自文件(&F)",
+		"&Assign this type to further imported items (skip this dialog)" : "Прив'язати цей тим до майбутніх файлів через імпорт (пропускати це вспливаюче вікно)",
+		"&From File(s)" : "Із файла",
 		"&Help" : "Допомога",
-		"&List" : "列表(&L)",
-		"&Manager" : "管理器(&M)",
+		"&List" : "Список",
+		"&Manager" : "Менеджер",
 		"&Refresh" : "Оновити",
-		"&Update" : "更新(&U)",
+		"&Update" : "Оновити",
 		"Android" : "Android",
-		"Any" : "任意",
+		"Any" : "Будь-який",
 		"Cancel" : "Скасувати",
-		"Create new object" : "创建新对象",
-		"Current" : "当前颜色",
+		"Create new object" : "Створити новий об'єкт",
+		"Current" : "Поточна",
 		"Html5" : "Html5",
 		"List1" : "List1",
 		"Mac" : "Mac",
 		"OK" : "Ок",
-		"Platforms" : "平台",
+		"Platforms" : "Платформи",
 		"SWF" : "SWF",
 		"UWP" : "UWP",
 		"Windows" : "Windows",
@@ -3982,12 +3982,12 @@
 	"dialog_2501" : {
 		"..." : "...",
 		"Cancel" : "Скасувати",
-		"Column Spacing" : "列间距",
-		"Columns" : "列",
-		"Help" : "帮助",
+		"Column Spacing" : "Простір між стовпцями",
+		"Columns" : "Стовпці",
+		"Help" : "Допомога",
 		"OK" : "Ок",
-		"Row Spacing" : "行间距",
-		"Rows" : "行",
+		"Row Spacing" : "Простір між рядками",
+		"Rows" : "Рядки",
 		"Spin1" : "Spin1"
 	},
 	"dialog_2502" : {
@@ -4052,7 +4052,7 @@
 	"dialog_4135" : {
 		"Opacity" : "Непрозорість",
 		"Size" : "Розмір",
-		"Slider1" : "Slider1",
+		"Slider1" : "Повзунок 1",
 		"Spin1" : "Spin1"
 	},
 	"dialog_4137" : {
@@ -4136,7 +4136,7 @@
 		"Slider1" : "Повзунок 1"
 	},
 	"dialog_4165" : {
-		"&Draw with background color" : "绘制背景颜色(&D)",
+		"&Draw with background color" : "Малювати кольором заднього фону",
 		"&Pick color" : "Обрати колір",
 		"&Resample when resizing selection or inserting resized frames" : "Згладжувати коли змінюється розмір або коли вставляється змінені сцени",
 		"Cancel" : "Скасувати",
@@ -4145,7 +4145,7 @@
 		"Color 2" : "Колір 2",
 		"OK" : "Ок",
 		"Options" : "Налаштування",
-		"Picture Editor Preferences" : "图片编辑器偏好设置",
+		"Picture Editor Preferences" : "Налаштування редактора зображень",
 		"Right Click" : "ПКМ"
 	},
 	"dialog_4166" : {
@@ -4162,7 +4162,7 @@
 		"Cancel" : "Скасувати",
 		"Crop image(s)" : "Обрізати зображення",
 		"From Frame" : "Від кадра",
-		"Hot spot" : "热点",
+		"Hot spot" : "Гаряча точка",
 		"Image Mode Options" : "Налаштування режиму зображення",
 		"Import Options" : "Налаштування імпорту",
 		"Insert &after current frame" : "Вставити після поточного кадру",
@@ -4198,7 +4198,7 @@
 	"dialog_6301" : {
 		"&Unselect" : "Скасувати вибір",
 		"Opacity" : "Непрозорість",
-		"Slider1" : "Slider1"
+		"Slider1" : "Повзунок 1"
 	},
 	"dialog_6302" : {
 		"&Alpha channel" : "Альфа канал",
@@ -4236,7 +4236,7 @@
 		"OK" : "Ок",
 		"Page Ratio" : "Співвідношення сторінки",
 		"Page Setup" : "Налаштування сторінки",
-		"Slider1" : "Slider1",
+		"Slider1" : "Півзунок 1",
 		"Static" : "Статичний",
 		"With their icon" : "Із їхньою іконкою",
 		"With their icon and name" : "Із їхньою іконкою та ім'ям",
@@ -4284,7 +4284,7 @@
 		"Please enter delay :" : "Введіть затримку :",
 		"Seconds" : "Секунд",
 		"Set delay" : "Замінити затримку",
-		"Slider1" : "Slider1"
+		"Slider1" : "Півзунок 1"
 	},
 	"dialog_7949" : {
 		"&Help" : "Допомога",
@@ -4292,7 +4292,7 @@
 		"OK" : "Ок",
 		"Please enter new speed :" : "Введіть нову швидкість :",
 		"Set speed" : "Змінити швидкість",
-		"Slider1" : "Slider1"
+		"Slider1" : "Півзунок 1"
 	},
 	"dialog_7953" : {
 		"&Close" : "Зачинити",
@@ -4452,7 +4452,7 @@
 		"&Obstacle" : "Перешкода",
 		"&Platform" : "Платформа",
 		"Cancel" : "Скасувати",
-		"Effect on collision mask" : "碰撞标记效果",
+		"Effect on collision mask" : "Ефект на масці колізій",
 		"No&t an obstacle" : "Не перешкода",
 		"OK" : "Ок"
 	},
@@ -4470,7 +4470,7 @@
 		"Minute(s)" : "Хвилин",
 		"OK" : "Ок",
 		"Second(s)" : "Секунд",
-		"Slider1" : "Slider1"
+		"Slider1" : "Півзунок 1"
 	},
 	"dialog_13040" : {
 		"&Help" : "Допомога",
@@ -4641,7 +4641,7 @@
 		"Object's &icon" : "Іконка об'єкта",
 		"Object's &name" : "Ім'я об'єкта",
 		"Remember objects from last session" : "Пам'ятати об'єкти із минулої сесії",
-		"Slider1" : "Slider1",
+		"Slider1" : "Півзунок 1",
 		"Use old qualifiers" : "Використовувати старі фільтри"
 	},
 	"dialog_13534" : {
@@ -4650,7 +4650,7 @@
 		"&Zoom" : "Масштаб",
 		"Display &comment(s)" : "Показувати коментарі",
 		"Display &top bar" : "Відображати панель зверху",
-		"Slider1" : "Slider1",
+		"Slider1" : "Повзунок 1",
 		"Storyboard Editor" : "Редактор списка сцен",
 		"When creating a new application" : "Коли створюється нова програма"
 	},
@@ -4660,7 +4660,7 @@
 		"How to display the objects?" : "Як відображати об'єкти?",
 		"Object's &icon" : "Іконка об'єктів",
 		"Object's &name" : "Ім'я об'єктів",
-		"Slider1" : "Slider1"
+		"Slider1" : "Повзунок 1"
 	},
 	"dialog_13554" : {
 		"&Create automatic icons" : "Автоматично створювати іконки",
@@ -5027,7 +5027,7 @@
 		"Minute(s)" : "Хвилин(у)",
 		"OK" : "Ок",
 		"Second(s)" : "Секунд(у)",
-		"Slider1" : "Slider1",
+		"Slider1" : "Повзунок 1",
 		"Use a calculation" : "Розрахунок"
 	},
 	"dialog_14204" : {
