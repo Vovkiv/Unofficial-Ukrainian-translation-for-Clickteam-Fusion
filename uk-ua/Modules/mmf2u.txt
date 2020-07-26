@@ -3610,8 +3610,8 @@
 		"Width : %d" : "Ширина : %d"
 	},
 	"dialog_196" : {
-		"Description :" : "Опис :",
-		"Name :" : "Назва :"
+		"Description :" : "Опис:",
+		"Name :" : "Назва:"
 	},
 	"dialog_198" : {
 		"Data Elements" : "Елементи даних"
@@ -3676,7 +3676,7 @@
 	},
 	"dialog_248" : {
 		"Cancel" : "Скасувати",
-		"List1" : "List1",
+		"List1" : "Файли програми",
 		"New folder" : "Нова тека",
 		"OK" : "Ок",
 		"Refresh" : "Оновити",
@@ -3792,7 +3792,7 @@
 		"&Delete" : "Видалити",
 		"&Help" : "Допомога",
 		"Cancel" : "Скасувати",
-		"List1" : "List1",
+		"List1" : "Список 1",
 		"OK" : "Ок",
 		"Objects qualifiers" : "Ярлик об'єкта"
 	},
@@ -3821,30 +3821,30 @@
 		"&Color" : "Колір",
 		"&Font..." : "Шрифт...",
 		"&Help" : "Допомога",
-		"Add &Relief" : "添加 浮雕(&R)",
-		"Add Re&lief" : "添加 浮雕(&L)",
-		"Add new paragraph" : "添加新的段落",
-		"Answers" : "回答",
+		"Add &Relief" : "Додати рельєф",
+		"Add Re&lief" : "Додати рельєф",
+		"Add new paragraph" : "Додати новий параграф",
+		"Answers" : "Відповіді",
 		"Cancel" : "Скасувати",
-		"Double-click to add / edit answer" : "双击添加 / 编辑 回答",
-		"Down" : "下",
-		"F&ont..." : "字体(&O)...",
-		"List1" : "List1",
+		"Double-click to add / edit answer" : "Подвійний клік для додавання / редагування відповіді",
+		"Down" : "Вниз",
+		"F&ont..." : "Шрифт...",
+		"List1" : "Список 1",
 		"OK" : "Ок",
-		"Question" : "问题",
-		"Question Setup" : "问题设置",
-		"Up" : "上"
+		"Question" : "Питання",
+		"Question Setup" : "Налаштування питань",
+		"Up" : "Вгору"
 	},
 	"dialog_2006" : {
 		"..." : "...",
 		"Cancel" : "Скасувати"
 	},
 	"dialog_2008" : {
-		"Do not show this message again for this session of the program" : "不再为此程序的会话重复显示本信息",
-		"Internal error ! Objects or events of this application might be corrupt." : "内部错误。此应用程序的对象或事件可能已损坏。",
+		"Do not show this message again for this session of the program" : "Не показувати знову це повідомлення у цій сесії",
+		"Internal error ! Objects or events of this application might be corrupt." : "Внутрішня помилка: об'єкти або події у цій програмі можуть бути зіпсовані",
 		"OK" : "Ок",
-		"Please contact Clickteam if you can reproduce this issue, thanks !" : "如果你重复出现这个问题请联系clickteam，谢谢。",
-		"Saving the application and reloading it could fix the problem and only generate bad objects in the events, but if possible, you should save it with another filename and restart from a previous version." : "Saving the application and reloading it could fix the problem and only generate bad objects in the events, but if possible, you should save it with another filename and restart from a previous version.",
+		"Please contact Clickteam if you can reproduce this issue, thanks !" : "Зв'яжіться із Clickteam якщо ви можете повторити цю проблему, дякуємо!",
+		"Saving the application and reloading it could fix the problem and only generate bad objects in the events, but if possible, you should save it with another filename and restart from a previous version." : "Збереження програми та перезавантаження її може виправити проблему та сгенерує 'погані об'єкти' у подія, але, якщо можливо, збережіть її із іншим ім'ям та перезавантажте із іншої версії",
 		"Warning" : "Увага"
 	},
 	"dialog_2009" : {
@@ -3968,8 +3968,8 @@
 		"Cancel" : "Скасувати",
 		"Create new object" : "Створити новий об'єкт",
 		"Current" : "Поточна",
-		"Html5" : "Html5",
-		"List1" : "List1",
+		"Html5" : "HTML5",
+		"List1" : "Список 1",
 		"Mac" : "Mac",
 		"OK" : "Ок",
 		"Platforms" : "Платформи",
@@ -3991,7 +3991,7 @@
 		"Spin1" : "Spin1"
 	},
 	"dialog_2502" : {
-		"List1" : "List1"
+		"List1" : "Список 1"
 	},
 	"dialog_2504" : {
 		"&Color" : "Колір",
@@ -4328,7 +4328,7 @@
 		"&Automatic" : "Автоматично",
 		"&Cancel" : "Зачинити",
 		"&OK" : "Ок",
-		"List1" : "List1",
+		"List1" : "Список 1",
 		"Select Filters" : "Обрати фільтри",
 		"Select the filters you want to include with your application :" : "Оберіть фільтри які ви бажаєте використовувати у вашій програмі:"
 	},
@@ -4421,7 +4421,7 @@
 		"&Help" : "Допомога",
 		"Cancel" : "Скасувати",
 		"Choose a Storyboard Frame" : "Оберіть сцену",
-		"List1" : "List1",
+		"List1" : "Список 1",
 		"OK" : "Ок"
 	},
 	"dialog_9558" : {
@@ -4429,7 +4429,7 @@
 		"&Use a calculation" : "Розрахунок",
 		"Cancel" : "Скасувати",
 		"Choose a Storyboard Frame" : "Оберіть сцени",
-		"List1" : "List1",
+		"List1" : "Список 1",
 		"OK" : "Ок"
 	},
 	"dialog_13000" : {
@@ -4728,7 +4728,7 @@
 		"&Use a calculation" : "Розрахунок",
 		"Cancel" : "Скасувати",
 		"Dialog" : "Діалог",
-		"List1" : "List1",
+		"List1" : "Список 1",
 		"OK" : "Ок"
 	},
 	"dialog_13568" : {
@@ -4966,8 +4966,8 @@
 		"From a loaded application" : "Із поточної програми",
 		"From another application" : "Із іншої програми",
 		"Info" : "Інформація",
-		"List1" : "List1",
-		"List2" : "List2",
+		"List1" : "Список 1",
+		"List2" : "Список 2",
 		"OK" : "Ок",
 		"Play with Audio Player" : "Відтворювати через аудіо програвач",
 		"Use expression" : "Розрахунок"		
@@ -4981,7 +4981,7 @@
 	"dialog_14198" : {
 		"&Play" : "Відтворити",
 		"&Uninterruptable" : "Неприривно",
-		"List1" : "List1",
+		"List1" : "Список 1",
 		"Play with Audio Player" : "Відтворити через аудіо програвач",
 		"Sound Info" : "Інформація про аудіо-файл"
 	},
@@ -4993,7 +4993,7 @@
 		"Choose an object" : "Оберіть об'єкт",
 		"From a loaded application" : "Із поточної програми",
 		"From another application" : "Із іншої програми",
-		"List2" : "List2",
+		"List2" : "Список 2",
 		"OK" : "Ок",
 		"Tree1" : "Tree1"
 	},
