@@ -1,6 +1,6 @@
 {
 	"version" : 1,
-	"lang" : 1049,
+	"lang" : 1058,
 	"general" : {
 		"0 = Replace all images, 1 = Add frame to end of animation" : "Заменить все изображения: 0, Добавить кадр в конец анимации: 1",
 		"Animation frame" : "Кадр анимации",

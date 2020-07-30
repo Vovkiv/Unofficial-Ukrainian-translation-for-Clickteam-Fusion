@@ -1,6 +1,6 @@
 {
 	"version" : 1,
-	"lang" : 1049,
+	"lang" : 1058,
 	"general" : {
 		"%o: On loop %0 for boid %1" : "%o: При повторе %0 для стаи %1",
 		"Acceleration" : "Ускорение",

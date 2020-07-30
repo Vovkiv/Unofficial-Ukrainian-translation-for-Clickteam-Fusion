@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"%o : Click with left button" : "%o : 左键点击",
 		"%o : Click with right button" : "%o : 右键点击",

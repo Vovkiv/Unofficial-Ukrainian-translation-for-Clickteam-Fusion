@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"%o: %0 gets focus" : "%o: %0 获得焦点",
 		"%o: %0 loses focus" : "%o: %0 失去焦点",

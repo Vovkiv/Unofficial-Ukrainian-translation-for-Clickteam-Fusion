@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"00Read Info" : "00读取信息",
 		"00Reset info" : "00重置信息",

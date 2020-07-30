@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"Add dir speed of %1 towards angle %0" : "增加%1方向速度 向 角度%0 ",
 		"Add dir speed of %1 towards object %0" : "增加%1方向速度 向 对象%0",

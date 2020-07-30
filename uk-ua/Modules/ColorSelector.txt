@@ -1,6 +1,6 @@
 {
 	"version" : 1,
-	"lang" : 1049,
+	"lang" : 1058,
 	"general" : {
 		"%o: Bottom Button Hit" : "%o: Нижняя кнопка нажата",
 		"%o: Color Dialog Closed by Cancel" : "%o: Окно цвета закрыто: Отменить",

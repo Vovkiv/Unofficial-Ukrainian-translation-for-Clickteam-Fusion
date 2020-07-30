@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"%o : Item has tag %0" : "%o : 道具拥有标签 %0",
 		"%o : On error" : "%o : 发生错误时",

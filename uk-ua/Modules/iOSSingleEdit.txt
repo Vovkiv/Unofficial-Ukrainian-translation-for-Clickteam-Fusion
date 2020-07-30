@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"%o enters edit mode" : "%o 进入编辑模式",
 		"%o quits edit mode" : "%o 退出编辑模式",

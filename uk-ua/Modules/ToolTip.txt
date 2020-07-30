@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"%o: User has clicked on a link" : "%o: 用户在一行上点击",
 		"0-> No icon, 1-> Infos, 2-> Warning, 3-> Error" : "0-> 无图标 1-> 信息、 2-> 警告、 3-> 错误",

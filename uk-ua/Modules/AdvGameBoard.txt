@@ -1,6 +1,6 @@
 {
 	"version" : 1,
-	"lang" : 1049,
+	"lang" : 1058,
 	"general" : {
 		"%o: Brick at %0, %1 can fall down" : "%o: Блок %0, %1 может выпасть вниз",
 		"%o: Brick at %0, %1 can fall left" : "%o: Блок %0, %1 может выпасть влево",

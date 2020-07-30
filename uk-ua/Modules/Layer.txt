@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"#Title#Please choose a graphic file.#Filter#All files|*.*|" : "#Title#请选择图形文件.#Filter#All files|*.*|",
 		"%o: %0 Above %1?" : "%o: %0 在 %1 上一层？",

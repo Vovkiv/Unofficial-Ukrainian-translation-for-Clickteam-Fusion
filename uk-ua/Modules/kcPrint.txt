@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"00Change printing method to best fit" : "00改变打印方式为最适合",
 		"00Change printing method to scale" : "00改变打印方式为比例缩放",

@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"%o: Achievement %0 completed" : "%o: 成就 %0 完成",
 		"%o: Achievement completed" : "%o: 成就完成",

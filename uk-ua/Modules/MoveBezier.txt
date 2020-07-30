@@ -1,6 +1,6 @@
 {
 	"version" : 1,
-	"lang" : 1049,
+	"lang" : 1058,
 	"general" : {
 		"%o: An object moved" : "%o: Объект движется",
 		"%o: Current movement in %0's queue is paused" : "%o: Текущее движение в: %0 очереди на паузе",

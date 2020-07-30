@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"00Hide" : "00隐藏",
 		"00Pause count down" : "00倒计时暂停",

@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"# of characters" : "字符数",
 		"%s - %i points" : "%s - %i 点",

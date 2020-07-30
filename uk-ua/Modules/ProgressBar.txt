@@ -1,6 +1,6 @@
 {
 	"version" : 1,
-	"lang" : 1049,
+	"lang" : 1058,
 	"general" : {
 		"%o : Bar clicked then %0 released" : "%o : Панель нажата когда: %0 отпущена",
 		"%o : Bar clicked with %0" : "%o : Панель нажата с помощью: %0",

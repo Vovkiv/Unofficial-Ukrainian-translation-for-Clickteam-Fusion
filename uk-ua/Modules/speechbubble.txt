@@ -1,6 +1,6 @@
 {
 	"version" : 1,
-	"lang" : 1049,
+	"lang" : 1058,
 	"general" : {
 		"%o Allign text to the center" : "%o Выровнять текст по центру",
 		"%o Allign text to the left" : "%o Выровнять текст слева",

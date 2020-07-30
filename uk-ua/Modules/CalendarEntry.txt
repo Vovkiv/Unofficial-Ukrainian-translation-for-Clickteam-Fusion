@@ -1,6 +1,6 @@
 {
 	"version" : 1,
-	"lang" : 1049,
+	"lang" : 1058,
 	"general" : {
 		"%o: Delete All Events of Calendar Id: %0" : "%o: Удалить все события календаря с ID: %0",
 		"%o: Delete Event with Id: %0 and Calendar Id: %1" : "%o: Удалить события с ID: %0 и ID календаря: %1",

@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 1049,
+	"lang" : 1058,
 	"general" : {
 		"%o: Movement is paused" : "%o: Движение на паузе",
 		"%o: Object is falling" : "%o: Объект падает",

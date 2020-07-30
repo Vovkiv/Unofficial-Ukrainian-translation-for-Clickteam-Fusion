@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"%o: Layer %0, rotation operation completed" : "%o: 图层 %0，旋转操作完毕",
 		"%o: Layer %0, scale operation completed" : "%o: 图层 %0，缩放操作完毕",

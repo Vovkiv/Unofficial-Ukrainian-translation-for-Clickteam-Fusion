@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"00On error" : "00发生错误时",
 		"01Abort downloading of %s" : "01中止下载 %s",

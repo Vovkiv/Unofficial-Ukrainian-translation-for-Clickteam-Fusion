@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 1049,
+	"lang" : 1058,
 	"general" : {
 		"%o: Discard first %1 of %0" : "%o: Отменить первый %1 из %0",
 		"%o: Discard last %1 of %0" : "%o: Отменить последний %1 из %0",

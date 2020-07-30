@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"%o: A particle collides with %0" : "%o: 粒子碰撞 %0",
 		"%o: A particle collides with a backdrop" : "%o: 粒子碰撞 背景",

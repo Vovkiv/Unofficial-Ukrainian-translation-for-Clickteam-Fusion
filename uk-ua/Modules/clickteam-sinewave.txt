@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"About" : "关于",
 		"Action to take when movement ends." : "运动完毕时的动作。",

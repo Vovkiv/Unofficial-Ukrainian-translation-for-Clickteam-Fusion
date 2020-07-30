@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"%o is enabled" : "%o 已启用",
 		"Allows the movement of the objects located above it." : "允许对象位于其上方的运动。",

@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 1049,
+	"lang" : 1058,
 	"general" : {
 		"%o : Set number of directions to %0" : "%o : Установить количество направлений %0",
 		"Add distance and fixed of %0 to %1 to existing data" : "Добавить дистанцию и фиксированное значение %0 %1 к существующим данным",

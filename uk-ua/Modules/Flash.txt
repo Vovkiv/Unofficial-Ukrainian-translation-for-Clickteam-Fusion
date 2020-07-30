@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"00On error" : "00发生错误",
 		"01Open URL %s in current window" : "01打开网址%s在当前窗口",

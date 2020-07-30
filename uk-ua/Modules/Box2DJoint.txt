@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"Advanced" : "高级",
 		"All the objects under the pin" : "所有对象在钉下面",

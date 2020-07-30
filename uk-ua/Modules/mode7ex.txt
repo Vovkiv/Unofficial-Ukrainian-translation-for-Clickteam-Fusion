@@ -1,6 +1,6 @@
 {
 	"version" : 1,
-	"lang" : 1049,
+	"lang" : 1058,
 	"general" : {
 		"00Force recalculation and redraw display." : "00Принудительный перерасчёт и перерисовка отображения",
 		"00Horizontal wrap off." : "00Горизонтальная обрезка Выкл",

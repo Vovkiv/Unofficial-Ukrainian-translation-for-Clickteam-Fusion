@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"00Make invisible" : "00变为不可见",
 		"00Make visible" : "00使可见",

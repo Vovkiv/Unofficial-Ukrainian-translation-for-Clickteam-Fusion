@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"%o: current key exists" : "%o: 当前键已存在",
 		"%o: key %0\\%1 exists" : "%o: 键 %0\\%1 已存在",

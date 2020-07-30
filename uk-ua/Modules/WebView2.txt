@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 1049,
+	"lang" : 1058,
 	"general" : {
 		"%o: On Click" : "%o: При нажатии",
 		"%o: On Error" : "%o: При ошибке",

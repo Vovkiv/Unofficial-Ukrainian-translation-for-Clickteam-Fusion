@@ -1,6 +1,6 @@
 {
 	"version" : 1,
-	"lang" : 1049,
+	"lang" : 1058,
 	"general" : {
 		"%o: On create and load object - type %0" : "%o: При создании и загрузке объекта - тип %0",
 		"%o: On create and load object" : "%o: При создании и загрузке объекта",

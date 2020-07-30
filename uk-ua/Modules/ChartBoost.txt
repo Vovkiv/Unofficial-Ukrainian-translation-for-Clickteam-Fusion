@@ -1,6 +1,6 @@
 {
 	"version" : 1,
-	"lang" : 1049,
+	"lang" : 1058,
 	"general" : {
 		"%o: Add Integer %0 with name %1" : "Добавить целое число %0 с названием %1",
 		"%o: Add String %0 with name %1" : "Добавить строку %0 с названием %1",

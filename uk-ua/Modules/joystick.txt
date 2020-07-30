@@ -1,6 +1,6 @@
 {
 	"version" : 1,
-	"lang" : 1049,
+	"lang" : 1058,
 	"general" : {
 		"%o: Joypad %0 button %1 AND %2" : "%o: Контроллер %0 кнопка %1 И %2",
 		"%o: Joypad %0 button %1 AND %2 AND %3" : "%o: Контроллер %0 кнопка %1 И %2 И %3",

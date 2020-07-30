@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"%o: Air Play is activated" : "%o:AirPlay 有效",
 		"%o: Movie is paused" : "%o:影片暂停",

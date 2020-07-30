@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"%d (Num. keypad)" : "%d (数字键盘)",
 		"An error has occured while reading the file." : "读取文件时发生错误",

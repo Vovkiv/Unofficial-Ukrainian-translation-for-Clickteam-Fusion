@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"Add backdrop objects to the world" : "添加背景对象到世界",
 		"Add object %0 to world, density %1, friction %2, shape %3" : "添加对象 %0到世界，密度:%1 、摩擦力:%2 、形状:%3 ",

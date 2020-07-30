@@ -1,6 +1,6 @@
 {
 	"version" : 1,
-	"lang" : 1049,
+	"lang" : 1058,
 	"general" : {
 		"%o : A valid path exists" : "%o : Допустимый путь существует",
 		"%o : Cost of tile at %0 , %1 is %2" : "%o : Стоимость плитки %0,%1 %2",

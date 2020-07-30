@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"%o : Device is an OUYA?" : "%o : 设备是 OUYA ?",
 		"%o : Does player have product %0?" : "%o : 玩家是否有产品 %0 ?",

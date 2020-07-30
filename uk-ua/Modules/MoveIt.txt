@@ -1,6 +1,6 @@
 {
 	"version" : 1,
-	"lang" : 1049,
+	"lang" : 1058,
 	"general" : {
 		"%o: Object finished moving" : "%o: Объект закончил движение",
 		"Add objects %0 to queue" : "Добавить объекты %0 в очередь",

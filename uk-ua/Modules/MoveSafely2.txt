@@ -1,6 +1,6 @@
 {
 	"version" : 1,
-	"lang" : 1049,
+	"lang" : 1058,
 	"general" : {
 		"00Commence Safety Procedure" : "00Начать безопасную процедуру",
 		"00Prepare Safety" : "00Подготовить безопасную процедуру",

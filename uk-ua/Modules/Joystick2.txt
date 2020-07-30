@@ -1,6 +1,6 @@
 {
 	"version" : 1,
-	"lang" : 1049,
+	"lang" : 1058,
 	"general" : {
 		"#Title#Select file#Filter#Force Feedback Effect|*.ffe|All files|*.*|" : "#Название#Выбор файла#Фильтр#Эффект обратной связи|*.ffe|Все файлы|*.*|",
 		"%o: Controller %0 is gamepad" : "%o: Контроллер: %0 это Геймпад",

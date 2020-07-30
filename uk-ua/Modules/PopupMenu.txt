@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"%o: %0 selected" : "%o: %0 已选择",
 		"%o: Add Item (%0, %1, %2)" : "%o: 添加项目 (%0, %1, %2)",

@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"%1\nCannot find this file.\nPlease verify that the correct path and file name are given." : "%1\n找不到此文件\n请确认路径和文件名是否正确",
 		"%1 contained an unexpected object." : "%1 包含意外对象。",

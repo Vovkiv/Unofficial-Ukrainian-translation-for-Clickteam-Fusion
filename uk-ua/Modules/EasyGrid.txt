@@ -1,6 +1,6 @@
 {
 	"version" : 1,
-	"lang" : 1049,
+	"lang" : 1058,
 	"general" : {
 		"%o : %0 is over column %1 " : "%o : %0 перекрывает столбец %1 ",
 		"%o : %0 is over row %1 " : "%o : %0 перекрывает ряд %1 ",

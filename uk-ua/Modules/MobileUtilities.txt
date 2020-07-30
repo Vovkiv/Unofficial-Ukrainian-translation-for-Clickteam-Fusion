@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"0: no rotation, 1: 90 clockwise, 2: 90 anti-clockwise" : "0: 不旋转、 1: 90度顺时针、 2: 90度逆时针",
 		"Application running on mobile" : "应用在移动设备上运行",

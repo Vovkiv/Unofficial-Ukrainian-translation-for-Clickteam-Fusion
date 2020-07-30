@@ -1,6 +1,6 @@
 {
 	"version" : 1,
-	"lang" : 1049,
+	"lang" : 1058,
 	"general" : {
 		" Node ID connected to" : " Узел ID соединён с",
 		" Node ID connection from" : " Узел ID соединяется из",

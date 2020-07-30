@@ -1,6 +1,6 @@
 {
 	"version" : 1,
-	"lang" : 1049,
+	"lang" : 1058,
 	"general" : {
 		"10%s: Comparisons are case insensitive" : "10%s: Сравнение не чувствительно к регистру",
 		"10%s: Comparisons are case sensitive" : "10%s: Сравнение чувствительно к регистру",

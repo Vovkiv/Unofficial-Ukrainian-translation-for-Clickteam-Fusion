@@ -1,6 +1,6 @@
 {
 	"version" : 1,
-	"lang" : 1049,
+	"lang" : 1058,
 	"general" : {
 		"10%s: Disable Create Prompt" : "10%s: Выключить: Создать строку",
 		"10%s: Disable File Must Exist" : "10%s: Выключить: Файл должен существовать",

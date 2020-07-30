@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"#Answers" : "#Answers",
 		"#Blanks" : "#Blanks",

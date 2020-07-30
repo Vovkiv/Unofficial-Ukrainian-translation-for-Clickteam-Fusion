@@ -1,6 +1,6 @@
 {
 	"version" : 1,
-	"lang" : 1049,
+	"lang" : 1058,
 	"general" : {
 		"Blowfish Object" : "Шифр Иглобрюхий (объект)",
 		"Blowfish Encryption Object" : "Шифр Иглобрюхий (объект)",

@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"01Load position of %s" : "01载入%s的位置",
 		"01Save position of %s" : "01保存%s的位置",

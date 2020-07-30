@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"%o: Is treadmill active?" : "%o: 传送带激活？",
 		"Active at start" : "开始时激活",

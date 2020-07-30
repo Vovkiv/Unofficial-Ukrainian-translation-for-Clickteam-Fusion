@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 1049,
+	"lang" : 1058,
 	"general" : {
 		"01Add speed %s to %s" : "01Добавить скорость %s к %s",
 		"01Rotate %s toward %s" : "01Поворот %s относительно %s",

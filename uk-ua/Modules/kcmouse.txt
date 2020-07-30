@@ -1,6 +1,6 @@
 {
 	"version" : 1,
-	"lang" : 1049,
+	"lang" : 1058,
 	"general" : {
 		"01Actual Mouse X position %s" : "01Текущая позиция X мыши %s",
 		"01Actual Mouse Y position %s" : "01Текущая позиция Y мыши %s",

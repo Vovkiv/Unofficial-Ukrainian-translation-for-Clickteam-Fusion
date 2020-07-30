@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"00Clear last error" : "00清除最后错误",
 		"00Set directory to original" : "00还原目录",

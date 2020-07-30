@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"00Change brush style to continuous" : "00改变画刷样式为连续",
 		"00Change brush style to discontinuous" : "00改变画刷样式为间断",

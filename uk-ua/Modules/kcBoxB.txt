@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"%o checked" : "%o 被选中",
 		"%o clicked" : "%o 被点击",

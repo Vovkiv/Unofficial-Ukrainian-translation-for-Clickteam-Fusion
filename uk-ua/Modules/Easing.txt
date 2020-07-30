@@ -1,6 +1,6 @@
 {
 	"version" : 1,
-	"lang" : 1049,
+	"lang" : 1058,
 	"general" : {
 		"%o: Any object stopped moving" : "%o: Любой объект остановил движение",
 		"%o: If %0 is moving" : "%o: Если объект %0 движется",

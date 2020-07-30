@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"A new location is available" : "新位置可用",
 		"Accuracy" : "精度",

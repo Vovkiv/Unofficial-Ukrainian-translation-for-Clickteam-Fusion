@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"Allows you to control the virtual joystick input." : "控制虚拟摇杆输入",
 		"Enter 1 for left handed" : "输入1为惯用左手",

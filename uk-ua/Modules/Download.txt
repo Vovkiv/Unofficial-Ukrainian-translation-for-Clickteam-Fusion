@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"#Title#Enter the name of the destination file..." : "#Title#输入目标文件的名称...",
 		"%o: Connection error in slot %0" : "%o: 连接错误，在插槽 %0 ",

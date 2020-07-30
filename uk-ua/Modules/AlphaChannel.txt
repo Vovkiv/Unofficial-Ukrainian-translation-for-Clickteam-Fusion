@@ -1,6 +1,6 @@
 {
 	"version" : 1,
-	"lang" : 1049,
+	"lang" : 1058,
 	"general" : {
 		"%o : Animation %0 has finished" : "%o : Анимация %0 завершилась",
 		"%o : Animation %0 is playing?" : "%o : Анимация %0 воспроизводится?",

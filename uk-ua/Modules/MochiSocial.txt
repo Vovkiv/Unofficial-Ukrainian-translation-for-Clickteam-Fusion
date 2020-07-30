@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"%o : On error : Network error" : "%o : 发生错误 : 网路错误",
 		"%o : On error : User not logged in" : "%o : 发生错误 : 用户未登陆",

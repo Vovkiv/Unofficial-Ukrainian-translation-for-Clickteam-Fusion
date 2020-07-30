@@ -1,6 +1,6 @@
 {
 	"version" : 1,
-	"lang" : 1049,
+	"lang" : 1058,
 	"general" : {
 		"%o: Audio Ad Cached" : "%o: Аудио Ad - Кэшировано",
 		"%o: Audio Ad Clicked" : "%o: Аудио Ad - Нажато",

@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 
 		"%o: On Agreement Dialog with Id %0 and Button %1" : "%o: 同意对话框操作时: ID%0、按钮%1",

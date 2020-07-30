@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"%o: Friends list has been loaded" : "%o:好友列表已经载入",
 		"%o: Invitations sent" : "%o:邀请函发送",

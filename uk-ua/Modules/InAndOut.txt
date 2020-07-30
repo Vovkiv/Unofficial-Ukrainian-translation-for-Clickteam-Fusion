@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"Check this box to have the object move when the frame starts" : "选择此框后场景开始时对象移动",
 		"Check this box to have the object positionned out of the frame at start of frame" : "选择此框后场景画面开始时对象由外向内移动",

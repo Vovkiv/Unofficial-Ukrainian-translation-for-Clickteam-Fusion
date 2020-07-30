@@ -1,6 +1,6 @@
 ﻿{
 	"version" : 1,
-	"lang" : 2052,
+	"lang" : 1058,
 	"general" : {
 		"%o has input focus" : "%o 拥有输入焦点",
 		"%o is visible" : "%o 可见",

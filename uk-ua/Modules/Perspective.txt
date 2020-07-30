@@ -1,6 +1,6 @@
 {
 	"version" : 1,
-	"lang" : 1049,
+	"lang" : 1058,
 	"general" : {
 		"Can distort the background with the following effects:\nPerspective, Panorama, Sine Wave, Sine Offset, Custom and Custom Offset" : "Может исказить фон со следующими эффектами: Перспектива, Панорама, Синусоида, Смещение синусоиды, Настраиваемый и Настраиваемое смещение",
 		"Custom" : "Настраиваемый",
